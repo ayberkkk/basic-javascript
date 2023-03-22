@@ -572,10 +572,10 @@ const products = [
 // console.log(new_products);
 
 // const users = [
-//   { fullName: "Ayberk Tığlı", email: "ayberk@gmail.com", isActive: true },
-//   { fullName: "Hatice Tığlı", email: "Hatice@gmail.com", isActive: false },
-//   { fullName: "Hüseyin Tığlı", email: "Hüseyin@gmail.com", isActive: true },
-//   { fullName: "Behiye Tığlı", email: "behiye@gmail.com", isActive: false },
+//   { fullName: "user1", email: "user1k@gmail.com", isActive: true },
+//   { fullName: "user2", email: "user2@gmail.com", isActive: false },
+//   { fullName: "user3", email: "user3@gmail.com", isActive: true },
+//   { fullName: "user4", email: "user4@gmail.com", isActive: false },
 // ];
 
 // // const active_users = users.filter((user) => user.isActive === true);
